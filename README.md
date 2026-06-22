@@ -1,4 +1,4 @@
-# 🤖 SECJ3553: Artificial Intelligence — Reflection
+# 🤖 SECJ3553: Artificial Intelligence 
 ---
 
 ## Project Overview — MindConnect AI
@@ -101,4 +101,3 @@ The most lasting lesson: intelligence in a system is not just about getting the 
 
 ---
 
-*Last updated: June 2025 · ePortfolio maintained on GitHub*
